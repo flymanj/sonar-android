@@ -95,6 +95,7 @@
    <issue id="MisplacedStatement" severity="Ignore"/>
    <issue id="MissingApplicationIcon" severity="Ignore"/>
    <issue id="MissingId" severity="Ignore"/>
+   <issue id="MissingPermission" severity="Ignore"/>
    <issue id="MissingPrefix" severity="Ignore"/>
    <issue id="MissingQuantity" severity="Ignore"/>
    <issue id="MissingRegistered" severity="Ignore"/>

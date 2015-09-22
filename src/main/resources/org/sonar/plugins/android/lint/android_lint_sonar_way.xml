@@ -16,6 +16,10 @@
       </rule>
       <rule>
          <repositoryKey>android-lint</repositoryKey>
+         <key>MissingPermission</key>
+      </rule>
+      <rule>
+         <repositoryKey>android-lint</repositoryKey>
          <key>ResAuto</key>
       </rule>
       <rule>

@@ -53,7 +53,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 public class AndroidLintProfileExporterTest {
-  private final static int RULES_COUNT = 197;
+  private final static int RULES_COUNT = 198;
 
   @Test
   public void mime_type_is_xml() throws Exception {

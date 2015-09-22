@@ -95,6 +95,7 @@
    <issue id="MisplacedStatement" severity="Warning"/>
    <issue id="MissingApplicationIcon" severity="Warning"/>
    <issue id="MissingId" severity="Warning"/>
+   <issue id="MissingPermission" severity="Error"/>
    <issue id="MissingPrefix" severity="Error"/>
    <issue id="MissingQuantity" severity="Error"/>
    <issue id="MissingRegistered" severity="Error"/>
